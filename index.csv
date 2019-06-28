@@ -1,0 +1,16 @@
+DKO_GCB,./allbam/DKO_GCB.bam,0.3123654655746553
+Sample_DKO1-GCB,./allbam/Sample_DKO1-GCB.sorted.nodup.noM.black.bam,0.7793993602318857
+Sample_DKO1-NB,./allbam/Sample_DKO1-NB.sorted.nodup.noM.black.bam,1.2392595053825775
+Sample_DKO2-GCB,./allbam/Sample_DKO2-GCB.sorted.nodup.noM.black.bam,0.9128384306314415
+Sample_DKO2-NB,./allbam/Sample_DKO2-NB.sorted.nodup.noM.black.bam,1.1793699830907038
+Sample_DKO3-GCB,./allbam/Sample_DKO3-GCB.sorted.nodup.noM.black.bam,1.2493785910294255
+Sample_DKO3-NB,./allbam/Sample_DKO3-NB.sorted.nodup.noM.black.bam,2.806780311628582
+Sample_WT1-GCB,./allbam/Sample_WT1-GCB.sorted.nodup.noM.black.bam,0.9363430170579605
+Sample_WT1-NB,./allbam/Sample_WT1-NB.sorted.nodup.noM.black.bam,0.9186584390094946
+Sample_WT2-GCB,./allbam/Sample_WT2-GCB.sorted.nodup.noM.black.bam,0.8926169288340886
+Sample_WT2-NB,./allbam/Sample_WT2-NB.sorted.nodup.noM.black.bam,0.8676728320343969
+Sample_WT3-GCB,./allbam/Sample_WT3-GCB.sorted.nodup.noM.black.bam,0.8394217560484245
+Sample_WT3-NB,./allbam/Sample_WT3-NB.sorted.nodup.noM.black.bam,1.5870103695372701
+Sample_WT4-GCB,./allbam/Sample_WT4-GCB.sorted.nodup.noM.black.bam,1.8783834965364512
+Sample_WT4-NB,./allbam/Sample_WT4-NB.sorted.nodup.noM.black.bam,1.771771845961617
+WT_GCB,./allbam/WT_CB.bam,0.25470774343998587
